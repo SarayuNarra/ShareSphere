@@ -1,0 +1,1 @@
+const router=require("express").Router(); const c=require("../controllers/transactionController"); router.get("/",c.getTransactions); router.post("/borrow",c.borrowResource); router.post("/:id/return",c.returnResource); module.exports=router;

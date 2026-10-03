@@ -1,0 +1,1 @@
+const router=require("express").Router(); const c=require("../controllers/requestController"); router.post("/",c.createRequest); router.get("/my",c.getMyRequests); router.get("/owner",c.getOwnerRequests); router.put("/:id/status",c.updateRequestStatus); module.exports=router;
