@@ -188,3 +188,35 @@ https://share-sphere-q0op1qzdx-sarayunarra26-9867s-projects.vercel.app
 
 &#x20;               └─────────────────────┘
 
+
+## 📸 Screenshots
+
+### Dashboard
+
+The dashboard provides an overview of community resources, availability, pending requests, and active loans.
+
+![ShareSphere Dashboard](screenshots/dashboard.png)
+
+### Browse Resources
+
+Users can search and filter resources by category and availability.
+
+![Browse Resources](screenshots/browse-resources.png)
+
+### Resource Details & Borrow Request
+
+Users can view resource details and submit borrowing requests with start dates, end dates, and a message to the owner.
+
+![Resource Details](screenshots/resource-details.png)
+
+### Owner Requests
+
+Resource owners can review incoming requests and approve or reject them.
+
+![Owner Requests](screenshots/owner-requests.png)
+
+### Transactions
+
+Users can track borrowing and return transactions, submit feedback, and report damage.
+
+![Transactions](screenshots/transactions.png)
